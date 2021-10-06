@@ -1,4 +1,4 @@
-20254685806166526
+20251467067234161
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -77105,6 +77105,13 @@ rotary encoder
 5
 4
 S13615-1025
+AF210729-S14160-x16
+
+
+0
+32
+32
+S13615-1025
 S13615-10XX
 
 
@@ -87240,27 +87247,6 @@ capacitor
 0
 2
 2
-footprints
-LMH6552SD&slash_NOPB
-
-
-0
-9
-9
-footprints
-LMH6552SD_NOPB
-
-
-0
-9
-9
-footprints
-LMH6552SD_NOPB-SMALL_THERMAL_PAD
-
-
-0
-9
-9
 footprints
 L_0603_1608Metric
 Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
