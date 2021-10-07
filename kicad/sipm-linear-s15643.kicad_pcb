@@ -4987,6 +4987,11 @@
       (pinfunction "16K") (pintype "input+no_connect") (tstamp 3027fd92-51f3-40c6-9f30-6e3eb3fae129))
     (pad "32" smd circle (at 1.2 9) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 109 "/SipmPair7/IN2") (pinfunction "16A") (pintype "output") (tstamp 8cffb92f-d02e-4673-ba42-6c5e2544a153))
+    (model "${KIPRJMOD}/step/AF210729 v2.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 90))
+    )
   )
 
   (footprint "footprints:R_0402_1005Metric" (layer "F.Cu")
