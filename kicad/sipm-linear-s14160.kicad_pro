@@ -394,7 +394,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../manufacturing/tia.step",
+      "step": "../manufacturing/tia-linear_holesv1.step",
       "vmrl": "",
       "vrml": ""
     },
